@@ -7,3 +7,14 @@ vendor.powerhal.rendering  u:object_r:vendor_power_prop:s0
 
 # Xiaomi thermal daemon
 vendor.sys.thermal.                u:object_r:vendor_thermal_normal_prop:s0
+
+# Camera IDs
+vendor.camera.sensor.rearMacro.fuseID	u:object_r:vendor_camera_prop:s0
+vendor.camera.sensor.rearUltra.fuseID	u:object_r:vendor_camera_prop:s0
+vendor.camera.sensor.frontMain.fuseID	u:object_r:vendor_camera_prop:s0
+vendor.camera.sensor.rearMain.fuseID	u:object_r:vendor_camera_prop:s0
+vendor.camera.sensor.w.sensorInfo       u:object_r:vendor_camera_prop:s0
+vendor.camera.sensor.f.sensorInfo       u:object_r:vendor_camera_prop:s0
+vendor.camera.sensor.m.sensorInfo       u:object_r:vendor_camera_prop:s0
+vendor.camera.sensor.u.sensorInfo       u:object_r:vendor_camera_prop:s0
+vendor.camera.sensor.d.sensorInfo       u:object_r:vendor_camera_prop:s0
