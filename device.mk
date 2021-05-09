@@ -115,6 +115,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     CarrierConfigOverlaySweet \
     DialerOverlaySweet \
+    DocumentsUIOverlaySweet \
     FrameworkResOverlaySweet \
     SettingsOverlay \
     SettingsLibOverlaySweet \
