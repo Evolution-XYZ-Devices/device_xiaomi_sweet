@@ -2,6 +2,9 @@ genfscon proc /sys/kernel/sched_energy_aware      u:object_r:proc_sched_energy_a
 
 # Sysfs Nodes
 
+# Haptic
+genfscon sysfs /devices/platform/soc/884000.i2c/i2c-3/3-005a/ulevel                  u:object_r:sysfs_vibrator:s0
+
 # Fast Charge Mode Node
 genfscon sysfs /devices/platform/soc/c440000.qcom,spmi/spmi-0/spmi0-00/c440000.qcom,spmi:qcom,pm6150@0:qpnp,qg/power_supply/bms/fastcharge_mode  u:object_r:sysfs_fastcharge_mode:s0
 genfscon sysfs /devices/platform/soc/c440000.qcom,spmi/spmi-0/spmi0-00/c440000.qcom,spmi:qcom,pm6150@0:qcom,qpnp-smb5/power_supply/usb/fastcharge_mode u:object_r:sysfs_fastcharge_mode:s0
