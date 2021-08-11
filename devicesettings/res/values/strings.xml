@@ -69,7 +69,7 @@
     <string name="dirac_preset_metal">Metal</string>
     <string name="dirac_preset_bass_booster">Bass Booster</string>
 
-    <string name="dirac_hifi_enable_title"> Enable Hi-fi</string>
+    <string name="dirac_hifi_enable_title">Enable Hi-Fi</string>
     <string name="dirac_hifi_title">Hi-Fi</string>
     <string name="dirac_hifi_summary">Decrease noise and Distortion and increase audio quality</string>
 
