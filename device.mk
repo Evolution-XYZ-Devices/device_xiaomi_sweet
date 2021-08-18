@@ -108,7 +108,8 @@ PRODUCT_COPY_FILES += \
 
 # Device Settings
 PRODUCT_PACKAGES += \
-    DeviceSettings
+    DeviceSettings \
+    init.devicesettings.rc
 
 # Overlays
 PRODUCT_PACKAGES += \
