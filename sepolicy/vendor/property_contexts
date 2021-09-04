@@ -18,3 +18,4 @@ vendor.camera.sensor.f.sensorInfo       u:object_r:vendor_camera_prop:s0
 vendor.camera.sensor.m.sensorInfo       u:object_r:vendor_camera_prop:s0
 vendor.camera.sensor.u.sensorInfo       u:object_r:vendor_camera_prop:s0
 vendor.camera.sensor.d.sensorInfo       u:object_r:vendor_camera_prop:s0
+vendor.camera.boot_complete             u:object_r:vendor_camera_prop:s0
