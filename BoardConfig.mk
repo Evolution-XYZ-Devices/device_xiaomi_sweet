@@ -135,7 +135,6 @@ TARGET_FS_CONFIG_GEN := $(DEVICE_PATH)/configs/config.fs
 
 # Camera
 TARGET_USES_QTI_CAMERA_DEVICE := true
-TARGET_CAMERA_BOOTTIME_TIMESTAMP := true
 
 # Display
 TARGET_USES_ION := true

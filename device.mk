@@ -14,10 +14,6 @@ PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/audio/audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_policy_configuration.xml
 
-# miuicamera
-$(call inherit-product, vendor/miuicamera/config.mk)
-TARGET_DISABLE_MIMOJI_FILES := true
-
 PRODUCT_PACKAGES += \
     libvolumelistener \
     android.hardware.audio.service \
