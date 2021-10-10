@@ -33,3 +33,6 @@ ro.ppui.version=3.10
 ro.ppui.version_code=Azrael
 ro.ppui.is_official=true
 ro.ppui.maintainer_name=zaidkhan0997
+
+# One handed mode
+ro.support_one_handed_mode=true
