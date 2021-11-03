@@ -2,11 +2,11 @@
   {
     "repository" : "vendor_xiaomi_sweet",
     "target_path": "vendor/xiaomi/sweet",
-    "branch"     : "eleven"
+    "branch"     : "Snow"
   },
   {
     "repository" : "kernel_xiaomi_sweet",
     "target_path": "kernel/xiaomi/sweet",
-    "branch"     : "eleven"
+    "branch"     : "Snow"
   }
 ]
