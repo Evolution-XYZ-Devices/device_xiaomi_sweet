@@ -4,3 +4,6 @@ allow system_server vendor_sysfs_battery_supply:file r_file_perms;
 allow system_server system_server:capability sys_module;
 
 allow system_server app_zygote:process { getpgid };
+
+# Fast Charging
+allow system_server vendor_sysfs_usb_supply:file { getattr open read write };
