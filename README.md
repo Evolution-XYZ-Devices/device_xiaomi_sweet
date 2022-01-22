@@ -19,3 +19,7 @@ Battery | Non-removable Li-Po 5020 mAh
 Display | 1080 x 2400 pixels, 6.70 inches (~395 ppi pixel density)
 Camera  | Main (108MP), Wide (8MP), Macro (5MP), Depth (2MP), LED flash
 SD card slot | Dedicated microSDXC slot
+
+## Device picture
+
+![Xiaomi Redmi Note 10 Pro/Max](https://newsimg.giznext.com/mobile/production/news/wp-content/uploads/2021/05/07123335/redmi-note-10-pro-max-735x400.jpg)
