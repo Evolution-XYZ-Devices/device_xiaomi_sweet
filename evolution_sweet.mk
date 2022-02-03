@@ -16,6 +16,7 @@ $(call inherit-product, vendor/evolution/config/common_full_phone.mk)
 
 # Bootanimation
 TARGET_BOOT_ANIMATION_RES := 1080
+TARGET_SUPPORTS_QUICK_TAP := true
 
 # Evolution-X Stuff
 EVO_BUILD_TYPE := OFFICIAL
