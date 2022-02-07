@@ -1,0 +1,2 @@
+# sysfs nodes that permit configuration of kernel usermodehelpers.
+type sysfs_fastcharge_mode, fs_type, sysfs_type;

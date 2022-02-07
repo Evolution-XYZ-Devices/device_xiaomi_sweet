@@ -2,6 +2,10 @@ genfscon proc /sys/kernel/sched_energy_aware      u:object_r:proc_sched_energy_a
 
 # Sysfs Nodes
 
+# Fast Charge Mode Node
+genfscon sysfs /devices/platform/soc/c440000.qcom,spmi/spmi-0/spmi0-00/c440000.qcom,spmi:qcom,pm6150@0:qpnp,qg/power_supply/bms/fastcharge_mode  u:object_r:sysfs_fastcharge_mode:s0
+genfscon sysfs /devices/platform/soc/c440000.qcom,spmi/spmi-0/spmi0-00/c440000.qcom,spmi:qcom,pm6150@0:qcom,qpnp-smb5/power_supply/usb/fastcharge_mode u:object_r:sysfs_fastcharge_mode:s0
+
 # Wakeup Node
 genfscon sysfs /devices/platform/goodix_ts.0/power/wakeup u:object_r:sysfs_wakeup:s0
 genfscon sysfs /devices/platform/soc/88e0000.qcom,msm-eud/power/wakeup u:object_r:sysfs_wakeup:s0
