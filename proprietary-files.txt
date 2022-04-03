@@ -1916,7 +1916,8 @@ vendor/etc/acdbdata/Forte/Forte_Headset_cal.acdb|3affad5382970a6d932268322965bfa
 vendor/etc/acdbdata/Forte/Forte_Speaker_cal.acdb|e98d5e4bbd2afe7fb18a206dd4f157a1a2fa2a8d
 vendor/etc/acdbdata/Forte/Forte_workspaceFile.qwsp|e48a5798ea09afc1ad47c02939846a6a51221811
 
-# From MIUI v12.5.8.0 RKFINXM
+
+# Camera - from sweetin-user 12 SKQ1.210908.001 V13.0.1.0.SKFINXM release-keys
 vendor/lib64/camera/com.qti.tuned.sweet_ofilm_s5kgw3_wide.bin|ca2ed16c7a93bc452becf8ff8f29db1c52bf411d
 vendor/lib64/camera/com.qti.tuned.sweet_sunny_s5kgw3_wide.bin|db7480734847ad2c1e34dda2cb1c0d718001d314
 
