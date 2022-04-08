@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="device_settings_title">Setări dispozitiv</string>
+    <string name="device_settings_summary">Personalizați aspectele specifice ale dispozitivului</string>
+    <string name="refresh_rate_title">Rata de reîmprospătare</string>
+    <string name="refresh_rate_summary">Schimbați rata de reîmprospătare a afișajului dispozitivului pentru o experiență mai bună</string>
+    <string name="enable_high_refresh_rate_title">Rată de reîmprospătare ridicată</string>
+    <string name="enable_high_refresh_rate_summary">Activați o rată de reîmprospătare ridicată pentru o experiență mai fluidă</string>
+    <string name="current_refresh_rate_info">Rata maximă / minimă de reîmprospătare <xliff:g id="version">%1$s</xliff:g>Hz - <xliff:g id="version">%2$s</xliff:g>Hz</string>
+    <!-- FPS Counter -->
+    <string name="fps_info_title">Contor FPS</string>
+    <string name="display_title">Afișaj</string>
+    <string name="dc_dimming_title">Mod întunecare protecție ochi</string>
+    <string name="dc_dimming_summary">Activați DC Dimming pentru a evita pâlpâirea ecranului la niveluri scăzute de luminozitate</string>
+    <string name="sound_title">Sunet</string>
+    <string name="dirac_enable">Utilizați amplificatorul Mi Sound</string>
+    <string name="dirac_title">Amplificatorul Mi Sound</string>
+    <string name="dirac_summary">Configurați presetările de sunet, tipurile de căști și altele</string>
+    <string name="dirac_headset_title">Tip cască</string>
+    <string name="dirac_preset_title">Presetare sunet</string>
+    <string name="dirac_scenario_title">Scenariu sunet</string>
+    <string name="dirac_tile_on">Pornit</string>
+    <string name="dirac_tile_off">Oprit</string>
+    <string name="dirac_headset_default">Implicit</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston 1</string>
+    <string name="dirac_headset_general_inear">General In-Ear</string>
+    <string name="dirac_headset_piston_basic">Ediție de bază</string>
+    <string name="dirac_headset_piston_2">Mi Piston 2</string>
+    <string name="dirac_headset_piston_standard">Mi Piston 3</string>
+    <string name="dirac_headset_piston_youth">Ediție Youth</string>
+    <string name="dirac_headset_piston_color">Ediție Color</string>
+    <string name="dirac_headset_in_ear">Mi In-Ear</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Mi Noise Cancelling (Type-C)</string>
+    <string name="dirac_headset_cancelling">Mi Noise Cancelling (3.5mm)</string>
+    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Căști Mi Basic</string>
+    <string name="dirac_headset_earphone">Căști Mi</string>
+    <string name="dirac_headset_ear_four">Mi Quadruple Driver Earphones</string>
+    <string name="dirac_headset_piston_typec">Căști Mi In-Ear (Type-C)</string>
+    <string name="dirac_headset_bluetooth_collar">Mi Bluetooth Neckband</string>
+    <string name="dirac_headset_bluetooth_linefree">Căști Bluetooth Mi</string>
+    <string name="dirac_headset_redmi_earphones">Căști Redmi</string>
+    <string name="dirac_preset_default">Implicit</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Clasic</string>
+    <string name="dirac_preset_hiphop">Hiphop</string>
+    <string name="dirac_preset_blues">Blues</string>
+    <string name="dirac_preset_electronic">Electronic</string>
+    <string name="dirac_preset_country">Country</string>
+    <string name="dirac_preset_dance">Dans</string>
+    <string name="dirac_preset_metal">Metal</string>
+    <string name="dirac_preset_bass_booster">Amplificare Bas</string>
+    <string name="dirac_scenario_default">Implicit</string>
+    <string name="dirac_scenario_intelligent">Inteligent</string>
+    <string name="dirac_scenario_music">Muzică</string>
+    <string name="dirac_scenario_video">Video</string>
+    <string name="dirac_scenario_voice">Voce</string>
+    <string name="dirac_hifi_enable_title">Activați Hi-Fi</string>
+    <string name="dirac_hifi_title">Hi-Fi</string>
+    <string name="dirac_hifi_summary">Reducere zgomotul și distorsiunile și crește calitatea sunetului</string>
+    <string name="clear_speaker_title">Curățare difuzor</string>
+    <string name="clear_speaker_summary">Redați un fișier audio de 30 de secunde pentru a curăța difuzorul</string>
+    <string name="clear_speaker_description">Rulați această funcție o dată sau de două ori dacă descoperiți că difuzorul este ușor blocat de praf. Setați volumul media la maxim.\n\nDacă difuzorul este blocat puternic, rulați această funcție de 2-5 ori în timp ce scuturați dispozitivul cu difuzorul îndreptat în jos.\n\nAVERTISMENT: asigurați-vă că toate căștile sunt deconectate.</string>
+    <!-- Haptic Level Settings -->
+    <string name="haptic_title">Vibrații la atingere</string>
+    <string name="haptic_warning">Configurarea unui nivel de vibrare prea ridicat poate provoca daune hardware permanente, utilizați pe propriul risc</string>
+    <string name="haptic_summary">Personalizați intensitatea vibrațiilor</string>
+    <string name="haptic_level_title">Nivel</string>
+    <string name="haptic_level_summary">Nivelul intensității vibrației</string>
+    <string name="haptic_level_summary_incompatible">Nucleul nu a acceptat această caracteristică</string>
+    <string name="power_title">Alimentare</string>
+    <string name="thermal_title">Profiluri termice</string>
+    <string name="thermal_summary">Ajustați profilurile termice și ale ecranului tactil pentru fiecare aplicație</string>
+    <string name="thermal_default">Implicit</string>
+    <string name="thermal_benchmark">Benchmark</string>
+    <string name="thermal_browser">Browser</string>
+    <string name="thermal_camera">Cameră</string>
+    <string name="thermal_dialer">Telefon</string>
+    <string name="thermal_gaming">Jocuri</string>
+    <string name="thermal_navigation">Navigare</string>
+    <string name="thermal_streaming">Streaming</string>
+    <string name="thermal_video">Video</string>
+    <string name="touch_game_mode_title">Activați modul joc</string>
+    <string name="touch_game_mode_summary">Activați controalele manuale ale caracteristicilor ecranului tactil și creșteți performanța CPU și GPU</string>
+    <string name="touch_response_title">Răspuns ecran tactil</string>
+    <string name="touch_response_summary">Controlul răspunsului la atingere</string>
+    <string name="touch_sensitivity_title">Sensibilitatea la atingere</string>
+    <string name="touch_sensitivity_summary">Controlul sensibilității la antigeri repetate</string>
+    <string name="touch_resistant_title">Zonă rezistentă la atingeri</string>
+    <string name="touch_resistant_summary">Reduceți sensibilitatea la atingere în apropierea marginilor pentru a evita declanșarea comenzilor tactile</string>
+    <string name="kcal_settings_title">Culoarea afișajului</string>
+    <string name="kcal_settings_summary">Reglați culoarea afișajului</string>
+    <string name="kcal_enable_title">Activare configurare culoare afișare</string>
+    <string name="kcal_enable_summary">Activează configurarea culorii afișajului pentru o ajustare personalizată</string>
+    <string name="kcal_not_supported">Setările de culoare de afișare nu sunt acceptate de nucleu</string>
+    <string name="kcal_rgb_preference_category_title">Ajustări ale RGB</string>
+    <string name="kcal_calibration_preference_category_title">Calibrare culoare</string>
+    <string name="saturation_slider_title">Saturație</string>
+    <string name="reset_default_button_title">Resetare la configurația implicită</string>
+    <string name="reset_default_button_summary">Resetează toate configurațiile acestui ecran</string>
+    <string name="contrast_slider_title">Contrast</string>
+    <string name="color_profiles">Profile de culoare</string>
+    <string name="color_profile_default">Implicit</string>
+    <string name="color_profile_cold">Rece</string>
+    <string name="color_profile_warm">Cald</string>
+    <string name="color_profile_saturated">Saturat</string>
+</resources>
